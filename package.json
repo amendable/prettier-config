@@ -2,5 +2,18 @@
   "name": "@amendable/prettier-config",
   "version": "1.0.0",
   "main": "index.json",
-  "license": "MIT"
+  "license": "MIT",
+  "description": "Amendable Prettier config",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amendable/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "amendable"
+  ],
+  "bugs": {
+    "url": "https://github.com/amendable/prettier-config/issues"
+  },
+  "homepage": "https://github.com/amendable/prettier-config"
 }
